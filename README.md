@@ -11,4 +11,4 @@ Las carpetas que van precedidas por un número (por ejemplo 02 - Formas básicas
 
 Aprendiendo Processing (http://dunadigital.com/processing) es un bog de aprendizaje donde reflejo de manera desordenada mis avances en el uso de Processing como herramienta de creación gráfica. Este repositorio NO contiene los mismos ejemplos, aunque algunos sí se repiten. 
 
-Este repositorio servirá para nutrir el blog de ahora en adelante.
+Este repositorio servirá para nutrir el blog.
